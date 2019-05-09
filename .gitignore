@@ -1,6 +1,4 @@
-.project
-.css
-.txt
+*.project
 # Compiled class file
 *.class
 
