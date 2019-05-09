@@ -7,10 +7,12 @@ Diese Software basiert auf der Version von Paddock 7.10beta : demontpx sowie PRE
 
 Eigenschaften
 	Responsive Webseite.
+        
 	Bootstrap 4.
+        
     	Ergebnisse der Rennen pro Saison anzeigen.
-    	Fahrer sind einem Team und die Teams einer Gruppe zugeordnet.
-    	Anlage verschiedener Regelsätze, Punkte pro Endposition / Qualifikation und schnellste Runde. 
+        Fahrer sind einem Team und die Teams einer Gruppe zugeordnet.
+        Anlage verschiedener Regelsätze, Punkte pro Endposition / Qualifikation und schnellste Runde. 
     	Support for different rulesets (points per finishing position/qualifying position/fastest lap).
     	Zeige Bilder / Videos zu den Rennen.
     	Zeige die Strecken mit zugeordneten Bildern.
@@ -51,12 +53,12 @@ Eigenschaften
 
  --
  
- ** Font Awesome **
+ * Font Awesome *
  *Font Awesome von Dave Gandy - http://fontawesome.io/license/
  Font Awesome ist vollständig Open Source und GPL - freundlich. http://fontawesome.io/license/
  --
  
- # Mitmachen
+# Mitmachen
 Lesen Sie die Contributing.md-Datei.
     
  --
