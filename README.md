@@ -26,13 +26,13 @@
    * Installer Pack mit Dantenbank erstellung.
    
 #### Credits
- ** (C) © Copyright 2019  Oliver Haase (Synthese) **
+ **(C) © Copyright 2019  Oliver Haase (Synthese)**
  
-    Toni Vicente (arv187), Pablo Oña (inguni), Stefan Meissner (stmeissner) ursprüngliche Autoren
-    von PREM Podium Rennen E Manager sowie Bert Hekman (DemonTPX) ursprünglicher Autor von Paddock 7.10beta.
+   Toni Vicente (arv187), Pablo Oña (inguni), Stefan Meissner (stmeissner) ursprüngliche Autoren
+   von PREM Podium Rennen E Manager sowie Bert Hekman (DemonTPX) ursprünglicher Autor von Paddock 7.10beta.
  
  Lizenz: GNU General Public License Version 3.0 (GPLv3)
- 
+
  https://github.com/Synthese/Test-Online-Sim-Race-Manager/blob/master/LICENSE
  
  
@@ -46,7 +46,7 @@
  ---
  
  
- ** Fortschritte ** 
+### Fortschritte 
  
  ---
  
@@ -56,7 +56,7 @@
  ---
  
 ### Font Awesome  
- *Font Awesome von Dave Gandy - http://fontawesome.io/license/
+ Font Awesome von Dave Gandy - http://fontawesome.io/license/
  Font Awesome ist vollständig Open Source und GPL - freundlich. http://fontawesome.io/license/
  ---
  
@@ -66,7 +66,7 @@ Lesen Sie die Contributing.md-Datei.
  ---
  
  
-**Readme der Originalversion:**
+### Readme der Originalversion:
 Paddock 7.10beta von: Präsentiert von: demontpx Letztes Update: 2013-04-17 
 Beschreibung Paddock, ursprünglich für die niederländische Racing League entwickelt, ist
 Verwaltungssoftware für Rennen und Rennligen, entweder in Spielen oder im echten Leben. 
