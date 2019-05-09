@@ -36,15 +36,19 @@ Diese Software basiert auf der Version von Paddock 7.10beta : demontpx sowie PRE
  ** Projektseite **
  
  --
+ 
  ** Informationen zu Installationen **
  
  --
+ 
  ** Fortschritte ** 
  
  --
- ** Bilder und sonstige Grafiken **
  
+ ** Bilder und sonstige Grafiken **
+
  --
+ 
  ** Font Awesome **
  *Font Awesome von Dave Gandy - http://fontawesome.io/license/
  Font Awesome ist vollständig Open Source und GPL - freundlich. http://fontawesome.io/license/
