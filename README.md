@@ -56,8 +56,10 @@
  ---
  
 ### Font Awesome  
- Font Awesome von Dave Gandy - http://fontawesome.io/license/
- Font Awesome ist vollständig Open Source und GPL - freundlich. http://fontawesome.io/license/
+Font Awesome von Dave Gandy - http://fontawesome.io/license/
+
+Font Awesome ist vollständig Open Source und GPL - freundlich. http://fontawesome.io/license/
+
  ---
  
 ### Mitmachen
