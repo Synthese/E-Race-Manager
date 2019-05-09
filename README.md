@@ -24,11 +24,9 @@
    * Anzeige verschiedener Module wie Letzte Rennen, kommende Rennen usw.
    * Video auf Startseite.
    * Installer Pack mit Dantenbank erstellung.
-    
-** Credits **
-
- (C) © Copyright 2019
- ** Oliver Haase (Synthese) **
+   
+#### Credits
+ ** (C) © Copyright 2019  Oliver Haase (Synthese) **
  
     Toni Vicente (arv187), Pablo Oña (inguni), Stefan Meissner (stmeissner) ursprüngliche Autoren
     von PREM Podium Rennen E Manager sowie Bert Hekman (DemonTPX) ursprünglicher Autor von Paddock 7.10beta.
