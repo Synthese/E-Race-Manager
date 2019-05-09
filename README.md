@@ -5,24 +5,26 @@ Es wird dazu verwendet, um Online Rennen aus Games zu verwalten, und Veranstaltu
 Ebenfalls werden Statistiken und Übersichten der verschiedenen Bereiche erstellt. 
 Diese Software basiert auf der Version von Paddock 7.10beta : demontpx sowie PREM-Podium-Rennen-E-Manager von arv187.
 
-**Eigenschaften**
-	Responsive Webseite
-	Bootstrap 4
-    Ergebnisse der Rennen pro Saison anzeigen
-    Fahrer sind einem Team und die Teams einer Gruppe zugeordnet.
-    Anlage verschiedener Regelsätze, Punkte pro Endposition / Qualifikation und schnellste Runde 
-    Support for different rulesets (points per finishing position/qualifying position/fastest lap).
-    Zeige Bilder / Videos zu den Rennen.
-    Zeige die Strecken mit zugeordneten Bildern.
+Eigenschaften
+	Responsive Webseite.
+	Bootstrap 4.
+    	Ergebnisse der Rennen pro Saison anzeigen.
+    	Fahrer sind einem Team und die Teams einer Gruppe zugeordnet.
+    	Anlage verschiedener Regelsätze, Punkte pro Endposition / Qualifikation und schnellste Runde. 
+    	Support for different rulesets (points per finishing position/qualifying position/fastest lap).
+    	Zeige Bilder / Videos zu den Rennen.
+    	Zeige die Strecken mit zugeordneten Bildern.
 	Zeige Teams mit Fahrerliste an.
 	Zeige Fahrern die Rekorde.
 	Bilder hochladen.
 	Videoanzeige zu Twitter oder Youtube durch eingabe von Link.
 	Anzeige der Regeln
-    Registrieren als Fahrer mit Bild möglich.(wird erweitert über Login mit Profil)
-    Bearbeiten der Regeln noch mit TinyMCE Editor (wird in einer weiteren Version geändert)
-    Anzeige und Bearbeiten und anlegen der News. (wird bearbeitet in nächster Version)
+    	Registrieren als Fahrer mit Bild möglich.(wird erweitert über Login mit Profil)
+    	Bearbeiten der Regeln noch mit TinyMCE Editor (wird in einer weiteren Version geändert)
+    	Anzeige und Bearbeiten und anlegen der News. (wird bearbeitet in nächster Version)
 	Anzeige verschiedener Module wie Letzte Rennen, kommende Rennen usw.
+	Video auf Startseite.
+	Installer Pack mit Dantenbank erstellung.
 	
 ** Credits **
  (C) © Copyright 2019
