@@ -2,3 +2,4 @@
 * text=auto
 vendor/* linguist-vendored
 *.js linguist-language=PHP
+*.css linguist-language=PHP
