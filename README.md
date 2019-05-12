@@ -1,5 +1,5 @@
-# Test-Online-Sim-Race-Manager
-   Online Sim Race Manager ist eine Verwaltungssoftware für Rennen und Rennligen.
+# E-Race-Manager
+   Online E-Race-Manager ist eine Verwaltungssoftware für Rennen und Rennligen.
    Es wird dazu verwendet, um Online Rennen aus Games zu verwalten, und Veranstaltungen zu erstellen. 
    Ebenfalls werden Statistiken und Übersichten der verschiedenen Bereiche erstellt. 
    Diese Software basiert auf der Version von Paddock 7.10beta : demontpx sowie PREM-Podium-Rennen-E-Manager von arv187.
@@ -33,7 +33,7 @@
  
  Lizenz: GNU General Public License Version 3.0 (GPLv3)
 
- https://github.com/Synthese/Test-Online-Sim-Race-Manager/blob/master/LICENSE
+ https://github.com/Synthese/E-Race-Manager/blob/master/LICENSE
  
  
 ### Projektseite 
