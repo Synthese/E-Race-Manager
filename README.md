@@ -37,7 +37,7 @@
  
  
 ### Projektseite 
-  https://synthese.github.io/Test-Online-Sim-Race-Manager/. 
+  https://synthese.github.io/E-Race-Manager/. 
  
  ---
  
