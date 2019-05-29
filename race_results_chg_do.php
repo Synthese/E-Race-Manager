@@ -2,7 +2,7 @@
 /*
  * race_results_chg_do.php  Version 1.11.0.0
  * date 05.05.19
- * Autor : Synthese
+ * 
  *
  */
 require_once("session_start.php");
