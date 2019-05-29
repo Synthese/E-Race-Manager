@@ -1,10 +1,5 @@
 <?php
-/*
- * remove_rules_do.php  Version 1.11.0.0
- * date 05.05.19
- * Autor : Synthese
- *
- */
+
 require_once("session_start.php");
 if(!isset($login)) error("Du hast keine Administratorrechte");
 
