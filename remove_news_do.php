@@ -1,8 +1,6 @@
 <?php
 /*
- * remove_news_do.php  Version 1.11.0.0
- * date 05.05.19
- * Autor : Synthese
+ * Datei muss bearbeitet werden da anderes news System kommt.
  * admin
  */
 require_once("session_start.php");
