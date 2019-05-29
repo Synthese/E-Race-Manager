@@ -1,0 +1,127 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 60vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+#frontpage-content #intro {
+	width: 1080px;
+	position: relative;
+	margin: 0 auto;
+	margin-top: -5px;
+	margin-bottom: -20px;
+	height: 550px;
+}
+#frontpage-content #intro .video-container {
+	width: 1920px;
+	height: 500px;
+	overflow: hidden;
+	position: absolute;
+	top: 10;
+	left: 50%;
+	margin: 0 0 0 -960px;
+}
+#frontpage-content #intro .video-container video.frontpage-video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+#frontpage-content #intro .video-container .vinjette {
+	width: 50%;
+	background-image: url(../images/vinjette.png);
+	position: absolute;
+	top: 0;
+	bottom: 0;
+}
+#frontpage-content #intro .video-container .vinjette.left {
+	left: 0;
+}
+#frontpage-content #intro .video-container .vinjette.right {
+	right: 0;
+	-moz-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
+#frontpage-content #videos {
+	padding: 40px 0;
+	min-height: 500px;
+	width: 1080px;
+	position: relative;
+	margin: 0 auto;
+}
+
+#frontpage-content #videos, #frontpage-content #videos {
+	padding: 0;
+	margin: 0;
+}
+
+
+/* Responsive Video from Zurb Foundation. Copyright (c) 2011 ZURB, http://www.zurb.com/ License: MIT */
+.flex-video {
+    position: relative;
+    padding-top: 25px;
+    padding-bottom: 67.5%;
+    height: 0;
+    margin-bottom: 16px;
+    overflow: hidden;
+}
+
+.flex-video.widescreen {
+    padding-bottom: 57.25%;
+}
+
+.flex-video.vimeo {
+    padding-top: 0;
+}
+
+.flex-video iframe, .flex-video object, .flex-video embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+@media only screen and (max-device-width: 800px) , only screen and
+        (device-width: 1024px) and (device-height: 600px) , only screen and
+        (width: 1280px) and (orientation: landscape) , only screen and
+        (device-width: 800px) , only screen and (max-width: 767px) {
+    .flex-video {
+        padding-top: 0;
+    }
+}
+
+
+.cc_container .cc_btn {
+background-color: #e4e4e4 !important; /* Farbe des Buttons */
+color: #000 !important; /* Textfarbe des Buttons */
+}
+ 
+.cc_container {
+background: #1f6888 !important; /* Hintergrundfarbe des gesamten Bereichs */
+color: #fdfdfd !important; /* Schriftfarbe des gesamten Bereichs */
+}
+ 
+.cc_container a {
+color: #31a8f0 !important; /* Textlink-Farbe "Mehr Infos" */
+}
