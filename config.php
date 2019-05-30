@@ -17,10 +17,10 @@ $config['mysql']['db'] = "deineDatenbank";
 $config['mysql']['port'] = "3306";
 
 
-$praefix ="rc_";                                // Tabellen Pr�fix f�r weitere Installationen
-$einstellungen =    $praefix."einstellungen";       // Tabelle f�r Einstellungen
-$news = $praefix."news"; // Tabelle f�r News
-$news_kategorie =   $praefix."news_kategorie"; // Tabelle f�r News-Kategorie
+$praefix ="rc_";                                // Tabellen Präfix für weitere Installationen
+$einstellungen =    $praefix."einstellungen";       // Tabelle für Einstellungen
+$news = $praefix."news"; // Tabelle für News
+$news_kategorie =   $praefix."news_kategorie"; // Tabelle für News-Kategorie
 $transfer = $praefix."transfer"; // Tabelle Transfer
 $transfer_kategorie =   $praefix."transfer_kategorie"; // Tabelle Transfer Kategorie
 
