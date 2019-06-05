@@ -49,7 +49,7 @@ $link->set_charset("utf8");
                   <div class="light">
                   <?php if($status=="online")
                       echo "<div class=\"btn btn-success\">
-<a class=\"text-white\" href=\"https://www.psycho-racing.de/infusions/forum/index.php?viewforum&forum_id=41\" target=\"_blanc\" alt=\"Anmeldung im Forum\" title=\"Anmeldung im Forum\">Anmeldungen offen</a></div>" ;
+<a class=\"text-white\" href=\"https://www.dein link zum Forum oder AnmeldeSeite\" target=\"_blanc\" alt=\"Anmeldung im Forum\" title=\"Anmeldung im Forum\">Anmeldungen offen</a></div>" ;
                       if($status=="offline")
                           echo "<div class=\"btn btn-danger\">Anmeldung geschlossen </div>";
                       if($status=="planung")
