@@ -39,22 +39,23 @@ $link->set_charset("utf8");
         <div class="col-lg-4 text-center">
           <div class="card mt-3 bg-light">
          
-          <div class="card-header"><h3 class=""><?php echo $name .'&nbsp;&nbsp;'. $group ?></b></h3></div>
+          <div class="card-header"><h3 class=""><?php echo $name ?></b></h3></div>
            <a href="<?php echo $event_link ?>" class="card h-10">
-              <img class="card" src="<?php echo $image ?>" alt="<?php echo $name ?>" width="100%" height="150px">
+              <img class="card" src="<?php echo $image ?>" alt="<?php echo $name ?>" title="<?php echo $name ?>" width="100%" height="150px"></a>
            <!--  <div class="carousel-caption">
               <h3><?php echo $name ?><br><?php echo $group; ?></h3>
             </div> -->
                <div class="card">
                   <div class="light">
                   <?php if($status=="online")
-                      echo "<div class=\"btn btn-success\">Beitritt offen</div>" ;
+                      echo "<div class=\"btn btn-success\">
+<a class=\"text-white\" href=\"https://www.psycho-racing.de/infusions/forum/index.php?viewforum&forum_id=41\" target=\"_blanc\" alt=\"Anmeldung im Forum\" title=\"Anmeldung im Forum\">Anmeldungen offen</a></div>" ;
                       if($status=="offline")
-                          echo "<div class=\"btn btn-danger\">Beitritt geschlossen </div>";
+                          echo "<div class=\"btn btn-danger\">Anmeldung geschlossen </div>";
                       if($status=="planung")
                           echo "<div class=\"btn btn-warning\">In Planung </div>";
                       ?> 
-                      </a> 
+                       
                     </div>    
                 </div>      
                <div class="card"><b><?php echo $group; ?></b></div>
