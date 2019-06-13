@@ -38,7 +38,7 @@ include ("head.php");
 				<!--Edit Main Content Area here-->
 				<div class="col col-lg-12">
 						<iframe width="1280" height="720"
-							src="http://www.youtube.com/embed/live_stream?channel=UC1eV7wV3RiBbySxnsxwqXjw"; 
+							src="http://www.youtube.com/embed/live_stream?channel=Deine ID"; 
 							  frameborder="0" allowfullscreen></iframe>
 				</div>
 				<!--/End Main Content Area here-->
