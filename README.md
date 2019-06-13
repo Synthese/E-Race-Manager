@@ -24,6 +24,7 @@
    * Anzeige verschiedener Module wie Letzte Rennen, kommende Rennen usw.
    * Video auf Startseite.
    * Installer Pack mit Dantenbank erstellung.
+   * Import von Daten aus AC, LFS, und RFactor ist in dieser Version nicht mehr möglich, in künftigen Versionen auch nicht mehr geplant.
    
 #### Credits
  **(C) © Copyright 2019  Oliver Haase (Synthese)**
