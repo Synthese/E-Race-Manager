@@ -49,7 +49,7 @@ include ("head.php");
 				<div class="col col-lg-12">
 					
 						<iframe width="1280" height="720"
-							src="https://player.twitch.tv/?channel=synth_d"; fallowfullscreen="true" scrolling="no">
+							src="https://player.twitch.tv/?channel=dein Channel Name"; fallowfullscreen="true" scrolling="no">
 							</iframe>
 				</div>
 
