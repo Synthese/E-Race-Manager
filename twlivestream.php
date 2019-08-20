@@ -2,22 +2,16 @@
 /*
  * -------------------------------------------------------+
  * | PHP-Liga Management System E-Race_Manager
- * | Copyright (C) Synthes
+ * | Copyright (C) Synthese
  * | https://www.e-race-manager.all-webservice.de/
  * +--------------------------------------------------------+
  * | Filename: twlivestream.php
  * | Author: Synthese
- * | Datum : 22.05.2019
+ * | Datum : 20.08.2019
  * +--------------------------------------------------------+
  * | Entfernung von diesem
  * | Copyright-Header ist strengstens verboten ohne
  * | schriftliche Genehmigung des Autors.
- * |
- * | Toni Vicente (arv187), Pablo Oña (inguni), 
- * | Stefan Meissner (stmeissner) sind ursprüngliche Autoren 
- * | von PREM Podium Rennen E Manager sowie Autor 
- * | Bert Hekman (DemonTPX) der ursprünglicher Autor von 
- * | Paddock 7.10beta war.
  * | 
  * +--------------------------------------------------------
  */
